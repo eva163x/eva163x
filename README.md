@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey! I'm Eva Aggarwal, an undergratudate junior at Duke University doing CS + Statistics.
 
-🔭 I’m currently working on a full-stack Piano Practice Tracker<br>👯 I’m looking to collaborate on any cool ethical AI projects you're working on!<br>🌱 I’m currently learning NLP and machine learning techniques!<br>💬 Ask me about coffee, ethical AI, dogs<br>⚡ Fun fact: I have two dogs named Lilo and Stitch
+🔭 I’m currently working on a full-stack Piano Practice Tracker<br>👯 I’m looking to collaborate on any cool ethical AI projects you're working on!<br>🌱 I’m currently learning NLP and machine learning techniques!<br>💬 Ask me about coffee, ethical AI, dogs<br>⚡ Fun fact: I have two dogs named Lilo and Stitch<br>🎉 Hobbies: I'm also into photography! Check out some of my work here: ![My photography](http://www.smalltown-usa.com/stories/2024/Eva%20Aggarwal/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/evaaggarwal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eva.aggarwal@duke.edu) 
 
